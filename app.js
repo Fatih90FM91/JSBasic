@@ -86,3 +86,4 @@ for (let i = 0; i < newItems.length; i++) {
 }
 
 console.log(stringResult);
+console.log("============================================================================");
